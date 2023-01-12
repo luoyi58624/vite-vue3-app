@@ -1,0 +1,10 @@
+{
+	"appId": "com.luoyi.vue3",
+	"appName": "vite-vue3-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "http://192.168.1.2:8889/#/",
+		"cleartext": true
+	}
+}
